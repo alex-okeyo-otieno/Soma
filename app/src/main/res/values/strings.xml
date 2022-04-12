@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Floating Button</string>
+    <string name="new_game">Login</string>
+    <string name="new_help">Help</string>
+</resources>
